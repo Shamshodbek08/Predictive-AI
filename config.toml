@@ -1,0 +1,8 @@
+# Theme for `streamlit run dashboard/app.py` run from the project root (taste-skill achromatic-ledger).
+# Ink primary (no brand colour in the chrome); blue-grey ground; white cards set in dashboard/theme.py CSS.
+[theme]
+base = "light"
+primaryColor = "#141414"
+backgroundColor = "#f2f4f7"
+secondaryBackgroundColor = "#e9ecf1"
+textColor = "#0a0a0a"
